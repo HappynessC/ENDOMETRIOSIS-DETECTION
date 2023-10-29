@@ -1,0 +1,4 @@
+The project primarily focuses on endometriosis, a widespread gynaecological condition where tissue similar to the womb lining develops elsewhere, such as in the ovaries and fallopian tubes. This condition is one of great health mimickers in women, it can lead to various painful symptoms while simultaneously escaping detection via scans and examinations. The disease can affect women of all ages, including teenagers, and it often takes over a decade to receive a diagnosis.
+I aim to develop a model that aids specialists in identifying endometriosis both in the uterus and outside the uterus. The model will be trained on expertly annotated images to ensure its accuracy. This area of study is largely unexplored, and the dataset is complex, making this a challenging yet rewarding endeavour. 
+NOTE: THIS PROJECT IS STILL A WORK IN PROGRESS
+# ENDOMETRIOSIS-DETECTION
